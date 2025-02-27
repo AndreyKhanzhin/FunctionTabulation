@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Программа табулирует функцию y(x)=sin(x)^2+cos(x)^2 на отрезке [a, b] и шагом h. a,b и h вводите вы.");
+﻿Console.WriteLine("Программа табулирует функцию y(x)=cos(x^2)+sin(x)^2 на отрезке [a, b] и шагом h. a,b и h вводите вы.");
 string a = Console.ReadLine();
 string b = Console.ReadLine();
 string h = Console.ReadLine();
